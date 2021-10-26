@@ -8,24 +8,35 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/cjcs1/.nuget/packages/": {}
+    "C:\\Users\\haponte\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/htmlFormartter/HtmlFormartter/HtmlFormartter/HtmlFormartter.csproj",
+      "projectUniqueName": "C:\\source\\Curso Unitest\\HtmlFormat\\htmlFormartter\\HtmlFormartter\\HtmlFormartter\\HtmlFormartter.csproj",
       "projectName": "HtmlFormartter",
-      "projectPath": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/htmlFormartter/HtmlFormartter/HtmlFormartter/HtmlFormartter.csproj",
-      "packagesPath": "/Users/cjcs1/.nuget/packages/",
-      "outputPath": "/Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/htmlFormartter/HtmlFormartter/HtmlFormartter/obj/",
+      "projectPath": "C:\\source\\Curso Unitest\\HtmlFormat\\htmlFormartter\\HtmlFormartter\\HtmlFormartter\\HtmlFormartter.csproj",
+      "packagesPath": "C:\\Users\\haponte\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\Curso Unitest\\HtmlFormat\\htmlFormartter\\HtmlFormartter\\HtmlFormartter\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/cjcs1/.config/NuGet/NuGet.Config"
+        "C:\\Users\\haponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\haponte\\Documents\\respaldo documentos\\NugetSteph": {},
+        "http://nuget.thefactoryhka.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,12 @@
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.deps.json
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.dll
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\ref\HtmlFormartter.dll
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.pdb
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.csprojAssemblyReference.cache
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.AssemblyInfoInputs.cache
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.AssemblyInfo.cs
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.csproj.CoreCompileInputs.cache
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.dll
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\ref\HtmlFormartter.dll
+C:\source\Curso Unitest\HtmlFormat\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.pdb
